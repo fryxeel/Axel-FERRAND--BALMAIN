@@ -1,4 +1,4 @@
-### Salut, moi c'est Axel Ferrand-Balmain ! 👋
+## Bonjour, moi c'est Axel Ferrand-Balmain ! 👋
 
 Je suis un **designer numérique** et **développeur web**, passionné par l'UI/UX et le branding. Actuellement en **DNMADE Graphisme et Numérique** à l'École by CCI (Haute-Savoie), j'aime concevoir des interfaces engageantes et optimisées pour l'expérience utilisateur.
 
@@ -7,6 +7,7 @@ Je suis un **designer numérique** et **développeur web**, passionné par l'UI/
 ### 🚀 Ce que je fais
 - **UI/UX Design** sur **Figma, Illustrator et Photoshop** 🎨
 - **Développement Web** (HTML, CSS, JS, PHP, MySQL, React avec Vite) 💻
+- **Branding** et identité visuelle 🎨
 - **Gestion de projets et collaboration** sur **GitHub** 🛠️
 
 ---
@@ -22,8 +23,8 @@ Je suis un **designer numérique** et **développeur web**, passionné par l'UI/
 ### 📫 Me contacter
 💼 **LinkedIn** : [linkedin.com/in/axel-ferrandbalmain](https://www.linkedin.com/in/axel-ferrandbalmain/)  
 📷 **Instagram** : [@axel.ferrandbalmain](https://www.instagram.com/axel.ferrandbalmain)  
-🎨 **Dribbble** : [dribbble.com/fryxeel](https://dribbble.com/fryxeel)  
-🖥️ **GitHub** : Tu es déjà ici 😉
+🎨 **Dribbble** : [dribbble.com/Fryxeel](https://dribbble.com/Fryxeel)  
+🖥️ **GitHub** : Vous êtes déjà ici 😉
 
 ---
 
