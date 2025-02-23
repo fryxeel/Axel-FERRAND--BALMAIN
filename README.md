@@ -7,7 +7,6 @@ Je suis un **designer numérique** et **développeur web**, passionné par l'UI/
 ### 🚀 Ce que je fais
 - **UI/UX Design** sur **Figma, Illustrator et Photoshop** 🎨
 - **Développement Web** (HTML, CSS, JS, PHP, MySQL, React avec Vite) 💻
-- **Automatisations** avec **n8n** ⚙️
 - **Gestion de projets et collaboration** sur **GitHub** 🛠️
 
 ---
@@ -21,7 +20,7 @@ Je suis un **designer numérique** et **développeur web**, passionné par l'UI/
 ---
 
 ### 📫 Me contacter
-💼 **LinkedIn** : [linkedin.com/in/axelfb](https://www.linkedin.com/in/axelfb)  
+💼 **LinkedIn** : [linkedin.com/in/axel-ferrandbalmain](https://www.linkedin.com/in/axel-ferrandbalmain/)  
 📷 **Instagram** : [@axel.ferrandbalmain](https://www.instagram.com/axel.ferrandbalmain)  
 🎨 **Dribbble** : [dribbble.com/fryxeel](https://dribbble.com/fryxeel)  
 🖥️ **GitHub** : Tu es déjà ici 😉
