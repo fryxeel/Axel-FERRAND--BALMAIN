@@ -1,4 +1,4 @@
-## Bonjour, moi c'est Axel Ferrand-Balmain ! 👋
+## Bonjour, c'est Axel Ferrand--Balmain ! 👋
 
 Je suis un **designer numérique** et **développeur web**, passionné par l'UI/UX et le branding. Actuellement en **DNMADE Graphisme** à l'École by CCI (Haute-Savoie), j'aime concevoir des interfaces engageantes et optimisées pour l'expérience utilisateur.
 
